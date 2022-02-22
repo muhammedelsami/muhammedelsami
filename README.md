@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://muhammedelsami.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio%20-%23FF0000.svg?&style=flat&logo=Website&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/muhammed-elsami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/muhammed-el%C5%9Fami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:muhammed97r@hotmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/muhammed.elsami" target="_blank"><img src="https://img.shields.io/badge/-@hadi.code-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
   
