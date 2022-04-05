@@ -13,10 +13,10 @@
   
  ### My latest projects
 
-<a href="https://github.com/majorkik/MovieBox-Compose">
+<a href="https://github.com/muhammedelsami/Car_Controller_Arduino">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedelsami&repo=Car_Controller_Arduino" alt="codestats-profile-readme" />
 </a>
-<a href="https://github.com/majorkik/moviebox-backend">
+<a href="https://github.com/muhammedelsami/BreakingBadProject">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedelsami&repo=breakingBadApi" alt="Geometry-Dash-Menu-Music-Randomizer" />
 </a> 
   
