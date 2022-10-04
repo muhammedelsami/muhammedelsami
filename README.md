@@ -23,37 +23,10 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> 
-  <a href="https://www.kotlin.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/esma-elosman/">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,firebase,cpp,php,arduino,mysql,git,github" />
   </a>
-  <a href="https://www.java.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.android.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.cpp.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="arduino" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.arduino.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
-  </a>   
-  <a href="https://www.arduino.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="arduino" width="40" height="40"/> 
-  </a>   
-  <a href="https://www.arduino.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
 </p>
 
 
