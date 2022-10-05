@@ -24,7 +24,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/esma-elosman/">
+  <a href="https://www.linkedin.com/in/muhammed-elsami/">
     <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,firebase,cpp,php,arduino,mysql,git,github" />
   </a>
 </p>
