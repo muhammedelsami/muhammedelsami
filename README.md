@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://www.muhammedelsami.com/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3DDC84" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/muhammed-el%C5%9Fami/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/muhammed-elsami/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:muhammed97r@hotmail.com"><img src="https://img.shields.io/badge/Email-7F52FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://www.youtube.com/channel/UComlhYSCEga40FwSv8MjVsw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://instagram.com/muhammed_elsami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
