@@ -1,155 +1,119 @@
-<h1 align="center">Hi 👋, I'm Muhammed Elşami</h1>
-<h3 align="center">A passionate Mobile App Developer</h3>
-
-- 🔭 I’m currently working on my **Kotlin and Java**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **beautiful mobile projects**
-
-- 📫 How to reach me: **[Click Here](https://www.muhammedelsami.com/)**
-
-- ⚡ What I like to do: **I like so much reading, gaming and coding**
-
-<h3 align="center">Connect with me:</h3>
 <div align="center">
-  
-[![image](https://img.shields.io/badge/website-D14836?style=for-the-badge&logo=web&logoColor=white)](https://www.muhammedelsami.com/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammed_elsami)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UComlhYSCEga40FwSv8MjVsw)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammed97r@hotmail.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-el%C5%9Fami/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:7F52FF&height=200&section=header&text=Muhammed%20El%C5%9Fami&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Mobile%20Engineer%20%E2%80%A2%20Android%20%C2%B7%20iOS%20%C2%B7%20Flutter&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Muhammed Elşami" />
+
+<a href="https://www.muhammedelsami.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7F52FF&center=true&vCenter=true&width=600&lines=Android+Developer+%40+DetaySoft;Kotlin+%C2%B7+Jetpack+Compose+%C2%B7+SwiftUI+%C2%B7+Flutter;On-device+AI+%E2%80%94+no+server%2C+no+API+key;Clean+Architecture+%26+offline-first+apps" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.muhammedelsami.com/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3DDC84" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muhammed-el%C5%9Fami/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:muhammed97r@hotmail.com"><img src="https://img.shields.io/badge/Email-7F52FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://www.youtube.com/channel/UComlhYSCEga40FwSv8MjVsw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://instagram.com/muhammed_elsami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=muhammedelsami&label=Profile%20views&color=7F52FF&style=flat-square" alt="Profile views" />
+
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammed-elsami/">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,firebase,cpp,php,arduino,mysql,git,github" />
-  </a>
-</p>
+## 👨‍💻 About Me
 
+```kotlin
+object MuhammedElsami {
+    val role      = "Android Developer @ DetaySoft"
+    val degree    = "Computer Engineer"
+    val platforms = listOf("Android", "iOS", "Flutter", "Web")
+    val focus     = listOf("On-device AI", "Clean Architecture", "Offline-first apps", "Delightful UI")
+    val hobbies   = listOf("Reading", "Gaming", "Coding")
+    val website   = "https://muhammedelsami.com"
+}
+```
 
-### ⚡ &nbsp;Stats
+- 📱 Building native Android apps with **Kotlin & Jetpack Compose** at **DetaySoft**
+- 🍎 Shipping iOS apps with **SwiftUI** and cross-platform apps with **Flutter**
+- 🧠 Exploring **fully offline, on-device AI** — RAG, sentence embeddings and local LLMs
+- 🌐 Building landing pages and dashboards with **Next.js & TypeScript**
+- 🤝 Open to collaborating on **beautiful, well-architected mobile projects**
+
+## 🛠️ Tech Stack
+
 <table>
-<tr>
-  <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedelsami&show_icons=true&locale=en&layout=compact" alt="muhammedelsami" /></td>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedelsami&show_icons=true&locale=en" alt="muhammedelsami" /></td>
+  <tr>
+    <td align="center" width="140"><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift,apple,flutter,dart&perline=10" alt="Mobile" /></td>
   </tr>
-  </table>
-  
+  <tr>
+    <td align="center"><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,php,laravel&perline=10" alt="Web" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite,mysql,postgres&perline=10" alt="Backend and Data" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,figma,vercel,arduino&perline=10" alt="Tools" /></td>
+  </tr>
+</table>
 
-
-
-
-
-<p align="center">
-  <img width="400" height="200" src="https://github.com/muhammedelsami/muhammedelsami/raw/main/AndroidKotlin.webp" />
+<p>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Coroutines and Flow" />
+  <img src="https://img.shields.io/badge/Hilt-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Hilt" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/MVVM-0D1117?style=flat-square" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=flat-square" alt="Clean Architecture" />
 </p>
 
+## 🚀 Featured Projects
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-<!--
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| 🧠 **[OnDeviceRAG — Android](https://github.com/muhammedelsami/OnDeviceRAG_Android)** | Fully offline RAG: chat with your PDFs using on-device embeddings (multilingual-e5-small) and LFM2-1.2B-RAG. | Kotlin · Compose · Hilt · Room · ONNX |
+| 🍎 **[OnDeviceRAG — iOS](https://github.com/muhammedelsami/OnDeviceRAG)** | The iOS counterpart with Accelerate-powered vector search and LiquidAI's LFM2. No server, no API key. | Swift · Accelerate |
+| 🍞 **[Toastoy](https://github.com/muhammedelsami/Toastoy)** | A customizable Toast library for Android. | Kotlin · Android Library |
+| 🌳 **[FamilyTree](https://github.com/muhammedelsami/FamilyTree)** | Build a family tree offline. Import and export GEDCOM without losing a tag. | Kotlin · Compose · Hilt · Room |
+| ⚡ **[SupabaseJetpackCompose](https://github.com/muhammedelsami/SupabaseJetpackCompose)** | Production-oriented notes app template with Supabase Auth, DB, Storage and Realtime. | Kotlin · Compose · Hilt · Supabase |
+| 📝 **[SupabaseSwiftUI](https://github.com/muhammedelsami/SupabaseSwiftUI)** | Dark-mode iOS notes app on Supabase, built with MVVM + Clean Architecture. | SwiftUI · Supabase |
+| 🔐 **[Animated-Login-Form](https://github.com/muhammedelsami/Animated-Login-Form)** | An animated login screen powered by Rive. | Kotlin · Rive |
 
+## 📊 GitHub Stats
 
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedelsami&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedelsami&theme=github" alt="Profile details" width="100%" />
+</picture>
 
-<p align="center">
-  <img width="200" height="200" src="https://github.com/muhammedelsami/muhammedelsami/raw/main/36226-android-studio-new-logo.gif" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammedelsami&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammedelsami&theme=github" alt="GitHub stats" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedelsami&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedelsami&theme=github" alt="Most commit language" width="49%" />
+</picture>
 
-![hippo](https://github.com/muhammedelsami/muhammedelsami/raw/main/36226-android-studio-new-logo.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=muhammedelsami&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=muhammedelsami&theme=default&hide_border=true" alt="GitHub streak" />
+</picture>
 
- <img src="https://github.com/muhammedelsami/muhammedelsami/raw/main/36226-android-studio-new-logo.gif"/>
- 
+</div>
 
+---
 
+<div align="center">
 
+**💬 Let's build something great together — [get in touch](https://www.muhammedelsami.com/)!**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:7F52FF&height=120&section=footer" width="100%" alt="" />
 
-
-
-
-
-<p align="center">
-  <img width="400" height="200" src="https://github.com/omkar-tenkale/omkar-tenkale/raw/main/AndroidKotlin.webp" />
-</p>
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/muhammedelsami/count.svg" />
-</p>
-
-
-
-
-### Hi there 👋
-
-**muhammedelsami/muhammedelsami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-
-
-
- ### My latest projects
-
-<a href="https://github.com/muhammedelsami/Car_Controller_Arduino">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedelsami&repo=Car_Controller_Arduino" alt="codestats-profile-readme" />
-</a>
-<a href="https://github.com/muhammedelsami/BreakingBadProject">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedelsami&repo=breakingBadApi" alt="Geometry-Dash-Menu-Music-Randomizer" />
-</a> 
-  
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://muhammedelsami.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio%20-%23FF0000.svg?&style=flat&logo=Website&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/muhammed-el%C5%9Fami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:muhammed97r@hotmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/muhammed_elsami" target="_blank"><img src="https://img.shields.io/badge/-@muhammed_elsami-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-  
-
--->
+</div>
