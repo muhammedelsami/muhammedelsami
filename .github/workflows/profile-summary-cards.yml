@@ -1,0 +1,42 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 3
+          AUTO_PUSH: false
+
+      # Keep only the two themes used in README.md
+      - name: Prune unused themes
+        run: |
+          sudo chown -R "$(id -u):$(id -g)" profile-summary-card-output
+          find profile-summary-card-output -mindepth 1 -maxdepth 1 \
+            ! -name github ! -name github_dark -exec rm -rf {} +
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A profile-summary-card-output
+          git diff --cached --quiet || git commit -m "Update profile summary cards"
+          git push
