@@ -88,17 +88,17 @@ object MuhammedElsami {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedelsami&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedelsami&theme=github" alt="Profile details" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammedelsami/muhammedelsami/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/muhammedelsami/muhammedelsami/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammedelsami&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammedelsami&theme=github" alt="GitHub stats" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammedelsami/muhammedelsami/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/muhammedelsami/muhammedelsami/main/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedelsami&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedelsami&theme=github" alt="Most commit language" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammedelsami/muhammedelsami/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/muhammedelsami/muhammedelsami/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" width="49%" />
 </picture>
 
 <picture>
