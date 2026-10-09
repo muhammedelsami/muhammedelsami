@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="https://www.muhammedelsami.com/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3DDC84" alt="Portfolio" /></a>
+  <a href="https://www.muhammedelsami.com/"><img src="https://img.shields.io/badge/Portfolio-1c232e?style=for-the-badge&logo=googlechrome&logoColor=3DDC84" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/muhammed-elsami/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:muhammed97r@hotmail.com"><img src="https://img.shields.io/badge/Email-7F52FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://www.youtube.com/channel/UComlhYSCEga40FwSv8MjVsw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -67,8 +67,8 @@ object MuhammedElsami {
   <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Room" />
   <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white" alt="Retrofit" />
   <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-  <img src="https://img.shields.io/badge/MVVM-0D1117?style=flat-square" alt="MVVM" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=flat-square" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/MVVM-1c232e?style=flat-square" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1c232e?style=flat-square" alt="Clean Architecture" />
 </p>
 
 ## 🚀 Featured Projects
